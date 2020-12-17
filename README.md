@@ -1,1 +1,1 @@
-# Nural-Network-Projects
+# Neural-Network-Projects
